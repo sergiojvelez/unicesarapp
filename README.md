@@ -3,7 +3,7 @@
 # **Metáfora**
 
 
-*La Universidad Popular del Cesar requiere de un sistema de información que le permita administrar sus procesos en cuanto a inscripciones, admisiones, proyección de carga académica, matrículas,  notas e informes. *
+*La Universidad Popular del Cesar requiere de un sistema de información que le permita administrar sus procesos en cuanto a inscripciones, admisiones, proyección de carga académica, matrículas,  notas e informes.*
 
 El rector de la universidad requiere un sistema de información que  permita realizar proceso de oferta de programas académicos,  inscribir aspirantes a estos programas para posteriormente admitirlos, que permita matricular tanto a estos nuevos estudiantes como a los antiguos, de la misma manera hacer la gestión de la carga académica  para preparar la oferta de cursos y proyectar la necesidad de docentes, gestionar el proceso de inserción de notas de manera online y generación de informes que permitan la toma de decisiones.
 
